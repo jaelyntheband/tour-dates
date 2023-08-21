@@ -4,9 +4,9 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 theme: midnight
 ---
 
-## [Jaelyn Bandcamp Page](https://jaelyn.bandcamp.com/)
-
 ![](https://f4.bcbits.com/img/0031466652_10.jpg){:class="img-responsive"}
+
+## [Jaelyn Bandcamp Page](https://jaelyn.bandcamp.com/)
 
 ## Sample Tracks
 
