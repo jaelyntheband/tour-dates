@@ -10,11 +10,7 @@ theme: midnight
 
 ### Bio
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium viverra suspendisse potenti nullam. Nunc eget lorem dolor sed viverra. Ut lectus arcu bibendum at. Et malesuada fames ac turpis egestas maecenas. Sed viverra ipsum nunc aliquet bibendum enim facilisis. Tellus mauris a diam maecenas sed enim. Phasellus vestibulum lorem sed risus. Quisque egestas diam in arcu cursus euismod quis viverra nibh. Nunc eget lorem dolor sed. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget. Ac orci phasellus egestas tellus rutrum. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Sit amet tellus cras adipiscing. Tellus in metus vulputate eu. Pellentesque nec nam aliquam sem et. Arcu non odio euismod lacinia at quis risus sed vulputate. At tempor commodo ullamcorper a lacus vestibulum.
-
-Fermentum dui faucibus in ornare quam viverra orci sagittis eu. Eget duis at tellus at urna condimentum mattis pellentesque id. Volutpat odio facilisis mauris sit amet massa vitae tortor. Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac ut. Amet commodo nulla facilisi nullam vehicula. Mauris in aliquam sem fringilla ut morbi tincidunt. Pellentesque nec nam aliquam sem et tortor consequat. Egestas maecenas pharetra convallis posuere morbi. Nunc id cursus metus aliquam eleifend mi. Non quam lacus suspendisse faucibus interdum posuere lorem. Leo a diam sollicitudin tempor id eu nisl nunc. Et malesuada fames ac turpis. In cursus turpis massa tincidunt dui ut ornare. Tempor nec feugiat nisl pretium fusce id velit. Faucibus interdum posuere lorem ipsum dolor sit amet consectetur adipiscing. Justo laoreet sit amet cursus sit amet dictum. A diam sollicitudin tempor id eu nisl nunc. Sit amet cursus sit amet dictum. Ut diam quam nulla porttitor massa.
-
-Mattis pellentesque id nibh tortor id. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Quam viverra orci sagittis eu. Urna et pharetra pharetra massa. Urna nunc id cursus metus aliquam eleifend mi. 
+Philadelphia's JAELYN plays hard rock/progressive metal with nods to NWOBHM. Featuring current or former members of Boy Sets Fire, Iron Roses, and Label The Traitor, JAELYN combines sci-fi dystopic imagery with hard-hitting rock/metal ballads.
 
 ## Sample Tracks
 
