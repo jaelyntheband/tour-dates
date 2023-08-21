@@ -13,7 +13,7 @@ theme: midnight
 
 Philadelphia's JAELYN plays hard rock/progressive metal with nods to NWOBHM. Featuring current or former members of Boy Sets Fire, Iron Roses, and Label The Traitor, JAELYN combines sci-fi dystopic imagery with hard-hitting rock/metal ballads.
 
-[Jaelyn Bandcamp Page](https://jaelyn.bandcamp.com/)
+## [Jaelyn Bandcamp Page](https://jaelyn.bandcamp.com/)
 
 ## Sample Tracks
 
