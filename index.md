@@ -14,6 +14,19 @@ theme: midnight
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3698777456/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://jaelyn.bandcamp.com/track/the-sisters-7-march">The Sisters 7 (March) by JAELYN</a></iframe>
 
+
+# Upcoming Shows
+
+- 8/25 Breadbox - Philadelphia, PA
+
+- 9/13 The Fire - Philadelphia, PA
+
+- 10/6 Chinchilla Cafe - Charlottesville, VA
+
+- 10/7 Moonlight House - Woodbridge, VA
+
+# Past Shows
+
 - 5/29 Animated Brewing - Coatesville, PA
 
 - 6/2 The Kingsland - Greenpoint Brooklyn, NY
@@ -22,6 +35,16 @@ theme: midnight
 
 - 6/22 Kung Fu Necktie - Philadelphia, PA
 
-- July - Tour dates/locations coming soon
+- 7/17 The Riff House Pub - Chesapeake, VA
+  
+- 7/19 The Pilot Light - Knoxville, TN
+
+- 7/20 Hi Tone - Memphis, TN
+
+- 7/21 Crossroads - Murphreesboro, TN
+
+- 7/22 The Bike Shop - Richmond, VA
 
 - 8/13 Century Bar - Philadelphia, PA
+
+- 8/17 Milkboy on South St, Philadelphia, PA
