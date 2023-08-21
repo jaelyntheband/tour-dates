@@ -11,7 +11,7 @@ theme: midnight
 
 
 
-# Upcoming Shows
+## Upcoming Shows
 
 - 8/25 Breadbox - Philadelphia, PA
 
@@ -21,7 +21,7 @@ theme: midnight
 
 - 10/7 Moonlight House - Woodbridge, VA
 
-# Past Shows
+## Past Shows
 
 - 5/29 Animated Brewing - Coatesville, PA
 
