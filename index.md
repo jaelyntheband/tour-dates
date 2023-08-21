@@ -1,7 +1,7 @@
 ---
 title: 'JAELYN'
 description: Minimal tutorial on making a simple website with GitHub Pages
-theme: neumorphism
+theme: midnight
 ---
 
 ![](https://f4.bcbits.com/img/0031466652_10.jpg){:class="img-responsive"}
