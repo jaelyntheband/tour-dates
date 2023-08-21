@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 'Jaelyn Tour Dates'
 description: Minimal tutorial on making a simple website with GitHub Pages
 theme: midnight
