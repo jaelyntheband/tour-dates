@@ -8,7 +8,7 @@ theme: midnight
 
 ## [Jaelyn Bandcamp Page](https://jaelyn.bandcamp.com/)
 
-## Biography
+### Bio
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium viverra suspendisse potenti nullam. Nunc eget lorem dolor sed viverra. Ut lectus arcu bibendum at. Et malesuada fames ac turpis egestas maecenas. Sed viverra ipsum nunc aliquet bibendum enim facilisis. Tellus mauris a diam maecenas sed enim. Phasellus vestibulum lorem sed risus. Quisque egestas diam in arcu cursus euismod quis viverra nibh. Nunc eget lorem dolor sed. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget. Ac orci phasellus egestas tellus rutrum. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Sit amet tellus cras adipiscing. Tellus in metus vulputate eu. Pellentesque nec nam aliquam sem et. Arcu non odio euismod lacinia at quis risus sed vulputate. At tempor commodo ullamcorper a lacus vestibulum.
 
