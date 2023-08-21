@@ -37,7 +37,7 @@ Philadelphia's JAELYN plays hard rock/progressive metal with nods to NWOBHM. Fea
 
 - 6/2 The Kingsland - Greenpoint Brooklyn, NY
 
-- 6/10 Philly AIDS thrift - info soon - Philadelphia, PA
+- 6/10 Philly AIDS Thrift - Philadelphia, PA
 
 - 6/22 Kung Fu Necktie - Philadelphia, PA
 
