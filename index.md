@@ -6,6 +6,8 @@ theme: midnight
 
 ![](https://f4.bcbits.com/img/0031466652_10.jpg){:class="img-responsive"}
 
+{% include image-gallery.html folder="/uploads/album" %}
+
 ## [Jaelyn Bandcamp Page](https://jaelyn.bandcamp.com/)
 
 ### Bio
