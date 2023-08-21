@@ -8,6 +8,8 @@ theme: midnight
 
 ![](https://f4.bcbits.com/img/0031466652_10.jpg){:class="img-responsive"}
 
+##Sample Tracks
+
 <iframe style="border: 0; width: 100%; height: 120px; margin-top: 30px;" src="https://bandcamp.com/EmbeddedPlayer/track=2779693212/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless> <a href="https://jaelyn.bandcamp.com/track/surgical-dark-heartbeat"> Surgical Dark (Heartbeat) by JAELYN </a> </iframe>
 
 <iframe style="border: 0; width: 100%; height: 120px; margin-bottom: 30px;" src="https://bandcamp.com/EmbeddedPlayer/track=3698777456/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless> <a href="https://jaelyn.bandcamp.com/track/the-sisters-7-march"> The Sisters 7 (March) by JAELYN </a> </iframe>
