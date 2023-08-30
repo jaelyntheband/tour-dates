@@ -11,7 +11,9 @@ theme: midnight
 
 ## Bio
 
-Philadelphia's JAELYN plays hard rock/progressive metal with nods to NWOBHM. Featuring current or former members of Boy Sets Fire, Iron Roses, and Label The Traitor, JAELYN combines sci-fi dystopic imagery with hard-hitting rock/metal ballads.
+JAELYN, a progressive rock / metal band with nods to NWOBHM. With influences ranging from post-hardcore to heavy metal and bands like Coheed and Cambria, In Flames, and Doro. In 2022 JAELYN released their debut EP, We Begin, after writing and recording during the pandemic. Since that time JAELYN has released a couple of follow up singles, toured, and are getting ready to write their second album. Most recently, the music video for the single, Sisters Seven, was released on youTube. 
+
+The lead vocalist, Jaelyn, has been writing and performing music for over 20 years. Playing in post-hardcore bands on labels like Stillborn Records such as Option, Stalemate, and Label the Traitor in the early 2000s and more recently with members of boysetsfire in the Iron Roses. This band is her first foray into a solo career, taking the reins as the primary writer and frontperson.
 
 ## [Jaelyn Bandcamp Page](https://jaelyn.bandcamp.com/)
 
@@ -23,9 +25,9 @@ Philadelphia's JAELYN plays hard rock/progressive metal with nods to NWOBHM. Fea
 
 ## Upcoming Shows
 
-- 8/25 Breadbox - Philadelphia, PA
-
 - 9/13 The Fire - Philadelphia, PA
+
+- 9/29 The Rusty Nail - Ardmore, PA
 
 - 10/6 Chinchilla Cafe - Charlottesville, VA
 
@@ -54,6 +56,8 @@ Philadelphia's JAELYN plays hard rock/progressive metal with nods to NWOBHM. Fea
 - 8/13 Century Bar - Philadelphia, PA
 
 - 8/17 Milkboy on South St, Philadelphia, PA
+
+- - 8/25 Breadbox - Philadelphia, PA
 
 
 ## Instagram
