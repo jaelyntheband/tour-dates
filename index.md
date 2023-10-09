@@ -24,16 +24,9 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 <iframe style="border: 0; width: 100%; height: 120px; margin-bottom: 30px;" src="https://bandcamp.com/EmbeddedPlayer/track=3698777456/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless> <a href="https://jaelyn.bandcamp.com/track/the-sisters-7-march"> The Sisters 7 (March) by JAELYN </a> </iframe>
 
 ## Upcoming Shows
-
-- 9/13 The Fire - Philadelphia, PA
-
-- 9/23 The Bloodbank, Philadelphia, PA
-
-- 9/29 The Rusty Nail - Ardmore, PA
-
-- 10/6 Chinchilla Cafe - Charlottesville, VA
-
-- 10/7 Moonlight House - Woodbridge, VA
+- 11/1 -> 1/1 - Writing a new album!
+  
+- 1/20 Century Bar - Philadelphia, PA
 
 ## Past Shows
 
@@ -59,7 +52,17 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 
 - 8/17 Milkboy on South St, Philadelphia, PA
 
-- - 8/25 Breadbox - Philadelphia, PA
+- 8/25 Breadbox - Philadelphia, PA
+  
+- 9/13 The Fire - Philadelphia, PA
+
+- 9/23 The Bloodbank, Philadelphia, PA
+
+- 9/29 The Rusty Nail - Ardmore, PA
+
+- 10/6 Chinchilla Cafe - Charlottesville, VA
+
+- 10/7 Moonlight House - Woodbridge, VA
 
 
 ## Instagram
