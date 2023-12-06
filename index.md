@@ -63,6 +63,8 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 
 - 10/7 Moonlight House - Woodbridge, VA
 
+- 12/30 Milkboy on South St, Philadelphia, PA
+
 
 ## Instagram
 
