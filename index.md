@@ -3,7 +3,6 @@ title: 'JAELYN'
 description: Minimal tutorial on making a simple website with GitHub Pages
 theme: midnight
 ---
-## Booking inquiries: [jaelynbooking@gmail.com](mailto:jaelynbooking@gmail.com)
 
 ![](https://f4.bcbits.com/img/0031466652_10.jpg){:class="img-responsive"}
 
@@ -16,7 +15,7 @@ JAELYN, a progressive rock / metal band with nods to NWOTHM. With influences ran
 The lead vocalist, Jaelyn, has been writing and performing music for over 20 years. Playing in post-hardcore bands on labels like Stillborn Records such as Option, Stalemate, and Label the Traitor in the early 2000s and more recently with members of boysetsfire in the Iron Roses. This band is her first foray into a solo career, taking the reins as the primary writer and frontperson.
 
 ## [Jaelyn Bandcamp Page](https://jaelyn.bandcamp.com/)
-
+## Booking inquiries: [jaelynbooking@gmail.com](mailto:jaelynbooking@gmail.com)
 ## Sample Tracks
 
 <iframe style="border: 0; width: 100%; height: 120px; margin-top: 30px;" src="https://bandcamp.com/EmbeddedPlayer/track=2779693212/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless> <a href="https://jaelyn.bandcamp.com/track/surgical-dark-heartbeat"> Surgical Dark (Heartbeat) by JAELYN </a> </iframe>
