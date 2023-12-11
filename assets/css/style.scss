@@ -7,6 +7,10 @@
   display: none;
 }
 
+  #mobile-title {
+    display: none;
+  }
+
 .wrapper section {
   #title {
     display: flex;
@@ -89,6 +93,12 @@ input[type="checkbox"]{
   display: none;
 }
 @media (max-width: 1000px){
+  .wrapper {
+    padding: 0;
+  }
+  #title {
+    display: none;
+  }
   nav{
     padding: 0 40px 0 50px;
   }
@@ -97,12 +107,16 @@ input[type="checkbox"]{
   nav .menu-btn i{
     display: block;
   }
+  #mobile-title {
+    display: unset;
+  }
   #click:checked ~ .menu-btn i:before{
     content: "\f00d";
   }
   nav ul{
+    background: black;
     position: fixed;
-    top: 80px;
+    top: 140px;
     left: -100%;
     background: #111;
     height: 100vh;
@@ -110,6 +124,8 @@ input[type="checkbox"]{
     text-align: center;
     display: block;
     transition: all 0.3s ease;
+    margin: 0;
+    padding: 0;
   }
   #click:checked ~ ul{
     left: 0;
