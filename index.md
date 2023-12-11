@@ -13,7 +13,7 @@ theme: midnight
   <script type="text/javascript">   
     document.addEventListener('DOMContentLoaded', function() {
     // Ensure the DOM is fully loaded before attaching the listener
-    var links  = document.querySelectorAll('.myLink');
+    var links  = document.querySelectorAll('.menu-link');
     var myfield = document.getElementById('click');
     // Convert the HTMLCollection to an array for easier iteration
     links.forEach(function(link) {
