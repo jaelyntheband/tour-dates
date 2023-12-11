@@ -17,11 +17,11 @@ theme: midnight
     <i class="fas fa-bars"></i>
   </label>
   <ul>
-    <li><a class="active" href="#">Home</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Services</a></li>
-    <li><a href="#">Gallery</a></li>
-    <li><a href="#">Feedback</a></li>
+    <li><a class="active" href="#booking-jaelynbookinggmailcom">Email</a></li>
+    <li><a href="#bio">Bio</a></li>
+    <li><a href="#sampletracks">Tracks</a></li>
+    <li><a href="#upcoming-shows">Shows</a></li>
+    <li><a href="#instagram">Instagram</a></li>
   </ul>
 </nav>
 
