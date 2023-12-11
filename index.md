@@ -4,7 +4,13 @@ image: https://drive.google.com/file/d/1g04-b3rJAzXNTKMy1m32r5PcnMV8C760/view?us
 description: Minimal tutorial on making a simple website with GitHub Pages
 theme: midnight
 ---
-
+<head>
+  <meta charset="utf-8">
+ <title>Responsive Navigation Menu</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 <nav>
   <input type="checkbox" id="click">
   <label for="click" class="menu-btn">
