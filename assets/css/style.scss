@@ -102,12 +102,17 @@ input[type="checkbox"]{
   }
   section #title {
     display: none;
+    margin: 0 -20px;
   }
   body {
     padding: 20px;
   }
   nav{
     padding: 0;
+    position: fixed;
+    top: 20px;
+    width: auto;
+    background: transparent;
   }
 }
 @media (max-width: 920px) {
@@ -121,9 +126,9 @@ input[type="checkbox"]{
     content: "\f00d";
   }
   nav ul{
-    background: black;
+    background: black !important;
     position: fixed;
-    top: 140px;
+    top: 89px;
     left: -100%;
     background: #111;
     height: 100vh;
