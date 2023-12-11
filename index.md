@@ -35,7 +35,7 @@ theme: midnight
   <ul>
     <li><a class="menu-link" href="#booking-jaelynbookinggmailcom">Email</a></li>
     <li><a class="menu-link" href="#bio">Bio</a></li>
-    <li><a class="menu-link" href="#sampletracks">Tracks</a></li>
+    <li><a class="menu-link" href="#sample-tracks">Tracks</a></li>
     <li><a class="menu-link" href="#upcoming-shows">Shows</a></li>
     <li><a class="menu-link" href="#instagram">Instagram</a></li>
   </ul>
