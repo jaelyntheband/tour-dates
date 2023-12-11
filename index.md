@@ -16,7 +16,7 @@ theme: midnight
   <label for="click" class="menu-btn">
     <i class="fas fa-bars"></i>
   </label>
-  <div id=mobile-title">
+  <div id="mobile-title">
     JAELYN
   </div>
   <ul>
