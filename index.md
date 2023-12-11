@@ -15,10 +15,10 @@ theme: midnight
   <input type="checkbox" id="click">
   <label for="click" class="menu-btn">
     <i class="fas fa-bars"></i>
+    <div id="mobile-title">
+      JAELYN
+    </div>
   </label>
-  <div id="mobile-title">
-    JAELYN
-  </div>
   <ul>
     <li><a class="active" href="#">Home</a></li>
     <li><a href="#">About</a></li>
