@@ -6,7 +6,6 @@ theme: midnight
 ---
 
 <nav>
-  <div class="logo">Brand</div>
   <input type="checkbox" id="click">
   <label for="click" class="menu-btn">
     <i class="fas fa-bars"></i>
