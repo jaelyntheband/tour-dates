@@ -7,8 +7,18 @@
   display: none;
 }
 
-#title hr {
-  display: none;
+#title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: black;
+  h1 {
+    margin: 15px;
+    font-size: 50px;
+  }
+  hr {
+    display: none;
+  }
 }
 
 .credits {
