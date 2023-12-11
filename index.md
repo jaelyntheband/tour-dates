@@ -10,16 +10,17 @@ theme: midnight
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script type="text/javascript">
-    // Get a reference to "myhref".
-    var myhref = document.getElementByClassName("menu-link");
-    // Get a reference to "myfield".
-    var myfield = document.getElementById("click");
-    // Attach an event listener to "myhref", which gets notifier when "myhref" is clicked.
-    myhref.addEventListener("click", function() {
-        // "myhref" is click. So, uncheck "myfield"
-        myfield.checked = false;
-    });
+  <script type="text/javascript">   
+    document.addEventListener('DOMContentLoaded', function() {
+      // Ensure the DOM is fully loaded before attaching the listener
+      var myhref = document.getElementByClassName("menu-link");
+      var myfield = document.getElementById("click");
+      // Convert the HTMLCollection to an array for easier iteration
+      Array.from(myhref).forEach(function(button) {
+        button.addEventListener('click', function() {
+          myfield.checked = false;
+        });
+      });   
 </script>
 
 </head>
