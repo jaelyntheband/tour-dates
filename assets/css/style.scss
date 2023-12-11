@@ -7,17 +7,22 @@
   display: none;
 }
 
-.wrapper section #title {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: black;
-  h1 {
-    margin: 15px;
-    font-size: 50px;
+.wrapper section {
+  #title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: black;
+    h1 {
+      margin: 15px;
+      font-size: 50px;
+    }
+    hr {
+      display: none;
+    }
   }
-  hr {
-    display: none;
+  h2 {
+    margin-top: 30px;
   }
 }
 
