@@ -12,15 +12,16 @@ theme: midnight
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script type="text/javascript">   
     document.addEventListener('DOMContentLoaded', function() {
-      // Ensure the DOM is fully loaded before attaching the listener
-      var myhref = document.getElementByClassName("menu-link");
-      var myfield = document.getElementById("click");
-      // Convert the HTMLCollection to an array for easier iteration
-      Array.from(myhref).forEach(function(button) {
-        button.addEventListener('click', function() {
-          myfield.checked = false;
-        });
-      });   
+    // Ensure the DOM is fully loaded before attaching the listener
+    var links  = document.querySelectorAll('.myLink');
+    var myfield = document.getElementById("click");
+    // Convert the HTMLCollection to an array for easier iteration
+    links.forEach(function(link) {
+      link.addEventListener('click', function(event) {
+        // Your event handling logic here
+        event.preventDefault(); // Prevent the default link behavior (optional)
+        myfield.checked = false;
+    });
 </script>
 
 </head>
