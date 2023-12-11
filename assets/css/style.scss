@@ -131,6 +131,7 @@ input[type="checkbox"]{
   }
   #click:checked ~ .menu-btn i:before{
     content: "\f00d";
+    position: fixed;
   }
   nav ul{
     background: black !important;
