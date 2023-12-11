@@ -1,5 +1,6 @@
 ---
 title: 'JAELYN'
+img: f4.bcbits.com/img/0031466621_100.png
 description: Minimal tutorial on making a simple website with GitHub Pages
 theme: midnight
 ---
