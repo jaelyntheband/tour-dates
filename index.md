@@ -73,8 +73,7 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
   
 - 1/20 Century Bar - Philadelphia, PA
 
-![1/20 Century Bar - Philadelphia, PA](https://drive.google.com/uc?export=view&id=1moI5sLDzl0sZFQniFLW5kQD1J5PylvS4){width=50px}
-
+<img src="https://drive.google.com/uc?export=view&id=1moI5sLDzl0sZFQniFLW5kQD1J5PylvS4" width="200">
 
 
 ## Past Shows
