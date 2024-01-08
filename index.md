@@ -3,6 +3,7 @@ title: 'JAELYN'
 image: https://drive.google.com/file/d/1g04-b3rJAzXNTKMy1m32r5PcnMV8C760/view?usp=drive_link
 description: Minimal tutorial on making a simple website with GitHub Pages
 theme: midnight
+markdown: kramdown
 ---
 <head>
   <meta charset="utf-8">
@@ -69,9 +70,12 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 <iframe style="border: 0; width: 100%; height: 120px; margin-bottom: 30px;" src="https://bandcamp.com/EmbeddedPlayer/track=3698777456/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless> <a href="https://jaelyn.bandcamp.com/track/the-sisters-7-march"> The Sisters 7 (March) by JAELYN </a> </iframe>
 
 ## Upcoming Shows
-- 11/1 -> 1/1 - Writing a new album!
   
 - 1/20 Century Bar - Philadelphia, PA
+
+![1/20 Century Bar - Philadelphia, PA](https://drive.google.com/uc?export=view&id=1moI5sLDzl0sZFQniFLW5kQD1J5PylvS4){width=50px}
+
+
 
 ## Past Shows
 
