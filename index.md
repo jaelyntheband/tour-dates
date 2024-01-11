@@ -73,6 +73,7 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
   
 - 1/20 Century Bar - Philadelphia, PA
 - 2/17 The Rusty Nail - Ardmore, PA
+- 3/2 PhilaMOCA - Philadelphia, PA
 
 <img src="https://drive.google.com/uc?export=view&id=1moI5sLDzl0sZFQniFLW5kQD1J5PylvS4" width="200">
 
