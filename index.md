@@ -81,41 +81,41 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 
 ## Past Shows
 
-- 5/29 Animated Brewing - Coatesville, PA
+- 5/29/2023 Animated Brewing - Coatesville, PA
 
-- 6/2 The Kingsland - Greenpoint Brooklyn, NY
+- 6/2/2023 The Kingsland - Greenpoint Brooklyn, NY
 
-- 6/10 Philly AIDS Thrift - Philadelphia, PA
+- 6/10/2023 Philly AIDS Thrift - Philadelphia, PA
 
-- 6/22 Kung Fu Necktie - Philadelphia, PA
+- 6/22/2023 Kung Fu Necktie - Philadelphia, PA
 
-- 7/17 The Riff House Pub - Chesapeake, VA
+- 7/17/2023 The Riff House Pub - Chesapeake, VA
   
-- 7/19 The Pilot Light - Knoxville, TN
+- 7/19/2023 The Pilot Light - Knoxville, TN
 
-- 7/20 Hi Tone - Memphis, TN
+- 7/20/2023 Hi Tone - Memphis, TN
 
-- 7/21 Crossroads - Murphreesboro, TN
+- 7/21/2023 Crossroads - Murphreesboro, TN
 
-- 7/22 The Bike Shop - Richmond, VA
+- 7/22/2023 The Bike Shop - Richmond, VA
 
-- 8/13 Century Bar - Philadelphia, PA
+- 8/13/2023 Century Bar - Philadelphia, PA
 
-- 8/17 Milkboy on South St, Philadelphia, PA
+- 8/17/2023 Milkboy on South St, Philadelphia, PA
 
-- 8/25 Breadbox - Philadelphia, PA
+- 8/25/2023 Breadbox - Philadelphia, PA
   
-- 9/13 The Fire - Philadelphia, PA
+- 9/13/2023 The Fire - Philadelphia, PA
 
-- 9/23 The Bloodbank, Philadelphia, PA
+- 9/23/2023 The Bloodbank, Philadelphia, PA
 
-- 9/29 The Rusty Nail - Ardmore, PA
+- 9/29/2023 The Rusty Nail - Ardmore, PA
 
-- 10/6 Chinchilla Cafe - Charlottesville, VA
+- 10/6/2023 Chinchilla Cafe - Charlottesville, VA
 
-- 10/7 Moonlight House - Woodbridge, VA
+- 10/7/2023 Moonlight House - Woodbridge, VA
 
-- 12/30 Milkboy on South St, Philadelphia, PA
+- 12/30/2023 Milkboy on South St, Philadelphia, PA
 
 
 ## Instagram
