@@ -71,7 +71,6 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 
 ## Upcoming Shows
   
-- 1/20 Century Bar - Philadelphia, PA
 - 2/17 The Rusty Nail - Ardmore, PA
 - 2/18 Kung Fu Necktie - Philadelphia, PA
 - 3/2 PhilaMOCA - Philadelphia, PA
@@ -79,9 +78,7 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 - 4/26 Chinchilla Cafe - Charlottesville, VA
 - 4/27 TBA
 
-<img src="https://drive.google.com/a/jaelyntheband.com/thumbnail?id=1moI5sLDzl0sZFQniFLW5kQD1J5PylvS4&sz=w200">
-
-<img src="https://drive.google.com/a/jaelyntheband.com/thumbnail?id=1sCAk1BZSiwulZyHYuani5gG_oaShKhxk&sz=w200">
+<img src="https://drive.google.com/a/jaelyntheband.com/thumbnail?id=1b5Y948oo7hFPIZx2yr-tHGd_3nVmECNK&sz=w200">
 
 <img
 src="https://kungfunecktie.com/wp-content/uploads/2024/01/Rockin_47941705660402.jpeg" width="200px">
@@ -90,6 +87,8 @@ src="https://kungfunecktie.com/wp-content/uploads/2024/01/Rockin_47941705660402.
 src="https://drive.google.com/a/jaelyntheband.com/thumbnail?id=1AIQWsFgj5bZZsgLNmVWqkdmeCbkxGTHm&sz=w350">
 
 ## Past Shows
+- 1/20/2024 Century Bar - Philadelphia, PA
+<!-- <img src="https://drive.google.com/a/jaelyntheband.com/thumbnail?id=1moI5sLDzl0sZFQniFLW5kQD1J5PylvS4&sz=w200"> -->
 
 - 5/29/2023 Animated Brewing - Coatesville, PA
 
