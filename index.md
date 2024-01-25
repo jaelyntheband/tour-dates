@@ -76,6 +76,8 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 - 2/18 Kung Fu Necktie - Philadelphia, PA
 - 3/2 PhilaMOCA - Philadelphia, PA
 - 3/21 Century Bar - Philadelphia, PA
+- 4/26 Chinchilla Cafe - Charlottesville, VA
+- 4/27 TBA
 
 <img src="https://drive.google.com/a/jaelyntheband.com/thumbnail?id=1moI5sLDzl0sZFQniFLW5kQD1J5PylvS4&sz=w200">
 
