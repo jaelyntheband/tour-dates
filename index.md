@@ -84,6 +84,9 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 src="https://kungfunecktie.com/wp-content/uploads/2024/01/Rockin_47941705660402.jpeg" width="200px">
 
 <img
+src="https://drive.google.com/a/jaelyntheband.com/thumbnail?id=147zCejz4_b0nvZNnT7jN-NH-GChmHmZI&sz=w200">
+
+<img
 src="https://drive.google.com/a/jaelyntheband.com/thumbnail?id=1AIQWsFgj5bZZsgLNmVWqkdmeCbkxGTHm&sz=w350">
 
 ## Past Shows
