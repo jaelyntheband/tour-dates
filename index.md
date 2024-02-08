@@ -65,11 +65,12 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 ## [Jaelyn Bandcamp Page](https://jaelyn.bandcamp.com/)
 ## Sample Tracks
 
-<audio class="player" controls preload="none">
-    <div>New & Unreleased: Captain Mars (Three Cheers)</div>
+<audio class="player" controls>
     <source src="https://docs.google.com/uc?export=open&id=1AWm4auqq2sDMQGFR5kEWuXz9tRMXXMmo" type="audio/mp3">
-    <p>New & Unreleased: Captain Mars (Three Cheers)</p>
-    <a>New & Unreleased: Captain Mars (Three Cheers)</a>
+    <p>
+      New & Unreleased: Captain Mars (Three Cheers)
+      <a>New & Unreleased: Captain Mars (Three Cheers)</a>
+    </p>
 </audio>
 
 <iframe style="border: 0; width: 100%; height: 120px; margin-top: 30px;" src="https://bandcamp.com/EmbeddedPlayer/track=2779693212/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless> <a href="https://jaelyn.bandcamp.com/track/surgical-dark-heartbeat"> Surgical Dark (Heartbeat) by JAELYN </a> </iframe>
