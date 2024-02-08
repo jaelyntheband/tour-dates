@@ -45,12 +45,12 @@
   padding: 0;
 }
 
-.player {
+audio {
   border: 0;
   width: 100%;
   height: 120px;
   margin-top: 30px;
-  div {
+  :host(div) {
     background-color: white;
     div {
       div {
