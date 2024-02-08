@@ -67,10 +67,10 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 
 <div class="audio-container">
   <h4> Captain Mars (Three Cheers)  </h4>
-  -- This is a new, unreleased song from our upcoming album scheduled for release in Summer 2024 --
-  <audio class="player" controls preload="auto">
-      <source src="https://docs.google.com/uc?export=open&id=1v1_KFUif0WrplMvpaIIqlKlRE70QGpua" type="audio/mp3">
-  </audio>
+  <p>This is a new, unreleased song from our upcoming album scheduled for release in Summer 2024</p>p>
+  <audio class="player" controls preload="none">
+    <source src="https://docs.google.com/uc?export=open&id=1v1_KFUif0WrplMvpaIIqlKlRE70QGpua" type="audio/mp3">
+</audio>
 </div>
 
 <iframe style="border: 0; width: 100%; height: 120px; margin-top: 30px;" src="https://bandcamp.com/EmbeddedPlayer/track=2779693212/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless> <a href="https://jaelyn.bandcamp.com/track/surgical-dark-heartbeat"> Surgical Dark (Heartbeat) by JAELYN </a> </iframe>
