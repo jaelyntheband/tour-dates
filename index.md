@@ -69,8 +69,7 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
   <h4> Captain Mars (Three Cheers)  </h4>
   <p>This is a new, unreleased song from our upcoming album scheduled for release in Summer 2024</p>
   <audio class="player" controls preload="none">
-    <source src="https://docs.google.com/uc?export=download&id=1v1_KFUif0WrplMvpaIIqlKlRE70QGpua" type="audio/mp3">
-    https://drive.google.com/file/d/1v1_KFUif0WrplMvpaIIqlKlRE70QGpua/view?usp=drive_link
+    <source src="./assets/Captain%20Mars%20(Three%20Cheers).mp3" type="audio/mp3">
 </audio>
 </div>
 
