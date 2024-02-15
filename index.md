@@ -58,7 +58,9 @@ markdown: kramdown
 ## Booking: [jaelynbooking@gmail.com](mailto:jaelynbooking@gmail.com)
 ## Bio
 
-JAELYN, a progressive rock / metal band with nods to NWOTHM. With influences ranging from post-hardcore to heavy metal and bands like Coheed and Cambria, In Flames, and Doro. In 2022 JAELYN released their debut EP, We Begin, after writing and recording during the pandemic. Since that time JAELYN has released a couple of follow up singles, toured, and are getting ready to write their second album. Most recently, the music video for the single, Sisters Seven, was released on youTube. 
+JAELYN, a progressive rock / metal band with nods to NWOTHM. With influences ranging from post-hardcore to heavy metal and bands like Coheed and Cambria, In Flames, and Doro. Now signed to SODEH Records. 
+
+In 2022 JAELYN released their debut EP, We Begin, after writing and recording during the pandemic. Since that time JAELYN has released a couple of follow up singles, toured, and are getting ready to write their second album. Most recently, the music video for the single, Sisters Seven, was released on youTube. 
 
 The lead vocalist, Jaelyn, has been writing and performing music for over 20 years. Playing in post-hardcore bands on labels like Stillborn Records such as Option, Stalemate, and Label the Traitor in the early 2000s and more recently with members of boysetsfire in the Iron Roses. This band is her first foray into a solo career, taking the reins as the primary writer and frontperson.
 
