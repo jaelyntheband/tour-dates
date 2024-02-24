@@ -1,7 +1,6 @@
 ---
 title: 'JAELYN'
-image: https://drive.google.com/file/d/1g04-b3rJAzXNTKMy1m32r5PcnMV8C760/view?usp=drive_link
-description: Minimal tutorial on making a simple website with GitHub Pages
+image: https://jaelyntheband.com/uploads/album/100-DCS_3917.jpg description: Official EPK of JAELYN
 theme: midnight
 markdown: kramdown
 ---
