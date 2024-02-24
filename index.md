@@ -92,6 +92,7 @@ src="https://drive.google.com/a/jaelyntheband.com/thumbnail?id=1AIQWsFgj5bZZsgLN
 - 2/18 Kung Fu Necktie - Philadelphia, PA
 - 2/17 The Rusty Nail - Ardmore, PA
 - 1/20/2024 Century Bar - Philadelphia, PA
+
 <!-- <img
 src="https://drive.google.com/a/jaelyntheband.com/thumbnail?id=147zCejz4_b0nvZNnT7jN-NH-GChmHmZI&sz=w200">
 
