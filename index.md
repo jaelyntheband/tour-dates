@@ -1,6 +1,6 @@
 ---
 title: 'JAELYN'
-image: https://jaelyntheband.com/uploads/album/100-DCS_3917.jpg description: 'Official EPK of JAELYN'
+image:  https://jaelyntheband.com/uploads/album/100-DCS_3917.jpg description: 'Official EPK of JAELYN'
 theme: midnight
 markdown: kramdown
 ---
