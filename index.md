@@ -87,7 +87,7 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
   <h4> Sisters 7 (March)  </h4>
   <p>Album Version (unlreleased) </p>
   <audio class="player" controls preload="none">
-    <source src="./assets/Sisters%207%20(March).wav.wav" type="audio/mp3">
+    <source src="./assets/Sisters%207%20(March).wav" type="audio/mp3">
 </audio>
 </div>
 
