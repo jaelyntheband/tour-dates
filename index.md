@@ -73,29 +73,14 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 ## [Jaelyn Bandcamp Page](https://jaelyn.bandcamp.com/)
 ## Sample Tracks
 
-<div class="audio-container">
-  <h4> Captain Mars (Three Cheers)  </h4>
-  <p>This is a new, unreleased song from our upcoming album scheduled for release in Fall 2024</p>
-  <audio class="player" controls preload="none">
-    <source src="./assets/Captain%20Mars%20(The%20Wrong%20Way).wav" type="audio/mp3">
-</audio>
-</div>
+<h4> Captain Mars (The Wrong Way)  </h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/il6ZXuPsO3o?si=bdbSEBZdZCNriD67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="audio-container">
-  <h4> Surgical Dark (Heartbeat)  </h4>
-  <p>Album Version (unlreleased) </p>
-  <audio class="player" controls preload="none">
-    <source src="./assets/Surgical%20Dark%20(Heartbeat).wav" type="audio/mp3">
-</audio>
-</div>
+<h4> Murdered by Monsters (The Pretty Ones)  </h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X9UrUzLMPHw?si=h8kBpvaXahM3s9ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="audio-container">
-  <h4> Sisters 7 (March)  </h4>
-  <p>Album Version (unlreleased) </p>
-  <audio class="player" controls preload="none">
-    <source src="./assets/Sisters%207%20(March).wav" type="audio/mp3">
-</audio>
-</div>
+<h4> Sisters 7 (March)  </h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8KK8d0MpJVA?si=s9hmdKV9nJDosSE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## YouTube
 
