@@ -1,6 +1,9 @@
 title: JAELYN
 remote_theme: pages-themes/midnight@v0.2.0
 markdown: kramdown
+image: https://f4.bcbits.com/img/a3601614262_10.jpg
+tagline: JAELYN, a post hardcore / metal band with nods to NWOTHM. With influences ranging from post-hardcore to heavy metal and bands like Coheed and Cambria, In Flames, Thrice and Doro.
 plugins: 
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-seo-tag
+
