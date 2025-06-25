@@ -101,9 +101,11 @@ allowfullscreen></iframe>
 
 ## Upcoming Shows
 
-- 8/31 Brightbox, Winchester, VA
-
-- 10/06 PhilaMoca, Philadelphia, PA
+- 6/28/2025 Underbite Bites - Philadelphia, PA
+- 
+- 8/9/2025 Snugs - New Paltz, NY
+- 
+- 9/5/2025 PhilaMOCA - Philadelphia, PA
 
 ## Past Shows
 <!-- <img
@@ -157,19 +159,29 @@ src="https://kungfunecktie.com/wp-content/uploads/2024/01/Rockin_47941705660402.
 
 - 2/18/2024 Kung Fu Necktie - Philadelphia, PA
   
-- 5/17 Rusty Nail, Ardmore, PA
+- 5/17/2024  Rusty Nail, Ardmore, PA
   
-- 5/27 Animated Brewing, Coatesville, PA
+- 5/27/2024  Animated Brewing, Coatesville, PA
   
-- 6/8 Century Bar, Philadelphia, PA
+- 6/8/2024  Century Bar, Philadelphia, PA
   
-- 7/13 KFN Philadelphia, PA
+- 7/13/2024  KFN Philadelphia, PA
   
-- 7/26 El Dorado Bar, Troy, NY
+- 7/26/2024  El Dorado Bar, Troy, NY
   
-- 7/27 10Seldon, New Haven, CT
+- 7/27/2024  10Seldon, New Haven, CT
   
-- 7/28 Cobra Club, Brooklyn NY
+- 7/28/2024  Cobra Club, Brooklyn NY
+
+- 12/19/2024 Nilkboy South St - Philadelphia, PA
+
+- 5/15/2025 Milkboy South St - Philadelphia, PA
+
+- 6/8/2025 Halftime - Newark, DE
+
+- 6/20/2025 PA Southern MetalFest - Hatboro, PA
+
+
   
 
 ## Instagram
