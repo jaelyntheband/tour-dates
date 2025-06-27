@@ -176,7 +176,7 @@ src="https://kungfunecktie.com/wp-content/uploads/2024/01/Rockin_47941705660402.
   
 - 7/28/2024  Cobra Club, Brooklyn NY
 
-- 12/19/2024 Nilkboy South St - Philadelphia, PA
+- 12/19/2024 Milkboy South St - Philadelphia, PA
 
 - 5/15/2025 Milkboy South St - Philadelphia, PA
 
