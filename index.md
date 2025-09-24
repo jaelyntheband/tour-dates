@@ -67,9 +67,9 @@ markdown: kramdown
 
 JAELYN, a post hardcore / metal band with nods to NWOTHM. With influences ranging from post-hardcore to heavy metal and bands like Coheed and Cambria, In Flames, Thrice and Doro. [They signed to SODEH Records in February 2024](https://www.sodeh.ca/jaelyn). 
 
-In 2022 JAELYN released their debut EP, [We Begin](https://jaelyn.bandcamp.com/album/we-begin-2), a sci-fi concept album set in the far future, written and recorded during the pandemic. Since that time JAELYN has released a number of follow up singles, toured, and will be releasing a comic book delicitng the first chaoter of the JAELYN storyline. Most recently, Jaelyn released their second full-length album, [The Star of Freyied](https://phameless.myshopify.com/collections/jaelyn), available on CD and Vinyl from Phameless Records. This album includes the singles [Mire Mite (The Twins)](https://www.mixedaltmag.com/news-28/reviews-on-the-real%3A-jaelyn), and [Murdered by Monsters (The Pretty Ones)](https://bfan.link/murdered-by-monsters-the-pretty-ones). 
+In 2022 JAELYN released their debut EP, [We Begin](https://jaelyn.bandcamp.com/album/we-begin-2), a sci-fi concept album set in the far future, written and recorded during the pandemic. Since that time JAELYN has released a number of follow up singles, toured, and will be releasing a comic book depicting the first chapter of the JAELYN storyline. Most recently, Jaelyn released their second full-length album, [The Star of Freyied](https://phameless.myshopify.com/collections/jaelyn), available on CD and Vinyl from Phameless Records. This album includes the singles [Mire Mite (The Twins)](https://www.mixedaltmag.com/news-28/reviews-on-the-real%3A-jaelyn), and [Murdered by Monsters (The Pretty Ones)](https://bfan.link/murdered-by-monsters-the-pretty-ones). 
 
-The band is currently writing and recording a number of new singles as part of a forthcoming new EP, before heading back into the recording studio this fall of 2025.
+The band is currently writing and recording a number of new singles as part of a forthcoming new EP, as they head back into the recording studio this fall of 2025.
 
 The lead vocalist, Jaelyn, has been writing and performing music for over 20 years. Playing in post-hardcore bands on labels like Stillborn Records such as Option, Stalemate, and Label the Traitor in the early 2000s and more recently with members of boysetsfire in the Iron Roses. This band is her first foray into a solo career, taking the reins as the primary writer and frontperson.
 
@@ -104,11 +104,11 @@ allowfullscreen></iframe>
 
 ## Upcoming Shows
 
-- 6/28/2025 Underbite Bites - Philadelphia, PA
-- 
-- 8/9/2025 Snugs - New Paltz, NY
-- 
-- 9/5/2025 PhilaMOCA - Philadelphia, PA
+- 10/5/2025, Details Coming Soon - MD
+
+- 12/26/2025, Nikki Lopez - Philadelphia, PA
+
+- 1/21/2026 Snugs - New Paltz, NY
 
 ## Past Shows
 <!-- <img
@@ -184,8 +184,13 @@ src="https://kungfunecktie.com/wp-content/uploads/2024/01/Rockin_47941705660402.
 
 - 6/20/2025 PA Southern MetalFest - Hatboro, PA
 
+- 6/28/2025 Underbite Bites - Philadelphia, PA
 
-  
+- 8/9/2025 Snugs - New Paltz, NY
+
+- 9/5/2025 PhilaMOCA - Philadelphia, PA
+
+- 9/21/2025 Nikki Lopex - Philadelphia, PA
 
 ## Instagram
 
