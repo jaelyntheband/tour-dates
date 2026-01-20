@@ -104,11 +104,8 @@ allowfullscreen></iframe>
 
 ## Upcoming Shows
 
-- 10/5/2025, Details Coming Soon - MD
-
-- 12/26/2025, Nikki Lopez - Philadelphia, PA
-
 - 1/21/2026 Snugs - New Paltz, NY
+- 3/12/2026 Cousin Danny's - Philadelphia, PA
 
 ## Past Shows
 <!-- <img
@@ -191,6 +188,9 @@ src="https://kungfunecktie.com/wp-content/uploads/2024/01/Rockin_47941705660402.
 - 9/5/2025 PhilaMOCA - Philadelphia, PA
 
 - 9/21/2025 Nikki Lopex - Philadelphia, PA
+
+- 10/5/2025 Club RYD - Earlville, MD
+
 
 ## Instagram
 
