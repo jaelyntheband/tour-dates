@@ -107,6 +107,7 @@ allowfullscreen></iframe>
 - 3/12/2026 Cousin Danny's - Philadelphia, PA
 - 3/14/2026 Palace 609 - South Jersey (ask a punk)
 - 4/11/2026 Rally in the Valley @ Snapper Magee's - Kingston, NY
+- 4/13/2026 Philly Style Pizza - Philadelphia, PA
 
 ## Past Shows
 <!-- <img
