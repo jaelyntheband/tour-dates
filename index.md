@@ -104,10 +104,7 @@ allowfullscreen></iframe>
 
 ## Upcoming Shows
 
-- 3/12/2026 Cousin Danny's - Philadelphia, PA
-- 3/14/2026 Palace 609 - South Jersey (ask a punk)
-- 4/11/2026 Rally in the Valley @ Snapper Magee's - Kingston, NY
-- 4/13/2026 Philly Style Pizza - Philadelphia, PA
+More shows coming soon! Stay tuned...
 
 ## Past Shows
 <!-- <img
@@ -194,6 +191,19 @@ src="https://kungfunecktie.com/wp-content/uploads/2024/01/Rockin_47941705660402.
 - 10/5/2025 Club RYD - Earlville, MD
 
 - 1/21/2026 Snugs - New Paltz, NY
+
+- 3/12/2026 Cousin Danny's - Philadelphia, PA
+- 3/14/2026 Palace 609 - South Jersey (ask a punk)
+
+- 4/11/2026 Rally in the Valley @ Snapper Magee's - Kingston, NY
+
+- 4/13/2026 Philly Style Pizza - Philadelphia, PA
+
+- 6/5/2026 McGillicuddy's - New Paltz, NY
+
+- 7/11/2026 Gametime Sportz Bar - Westville, NJ
+
+- 9/11/2026 Avalon Lounge - Catskill, NY
 
 
 ## Instagram
