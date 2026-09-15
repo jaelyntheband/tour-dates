@@ -76,6 +76,11 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 ## [Jaelyn Bandcamp Page](https://jaelyn.bandcamp.com/)
 ## Sample Tracks
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PEGp-a08jHg" title="Video 1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_TJ0kqggLVk" title="Video 2" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-CqNz7Yvwuw" title="Video 3" frameborder="0" allowfullscreen></iframe>   
+
+<!--
 <h4> Captain Mars (The Wrong Way)  </h4>
 <iframe width="auto" height="315" src="https://www.youtube.com/embed/il6ZXuPsO3o?si=bdbSEBZdZCNriD67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -84,6 +89,7 @@ The lead vocalist, Jaelyn, has been writing and performing music for over 20 yea
 
 <h4> Sisters 7 (March)  </h4>
 <iframe width="auto" height="315" src="https://www.youtube.com/embed/8KK8d0MpJVA?si=s9hmdKV9nJDosSE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-->
 
 ## YouTube
 
