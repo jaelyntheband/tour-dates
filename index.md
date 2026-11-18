@@ -65,11 +65,11 @@ markdown: kramdown
 
 ## Bio
 
-JAELYN, a post hardcore / metal band with nods to NWOTHM. With influences ranging from post-hardcore to heavy metal and bands like Coheed and Cambria, In Flames, Thrice and Doro. [They signed to SODEH Records in February 2024](https://www.sodeh.ca/jaelyn). 
+JAELYN, a melodic hardcore and punk band with influences ranging from post-hardcore to heavy metal and bands like Coheed and Cambria, Thrice, and Rise Against.
 
-In 2022 JAELYN released their debut EP, [We Begin](https://jaelyn.bandcamp.com/album/we-begin-2), a sci-fi concept album set in the far future, written and recorded during the pandemic. Since that time JAELYN has released a number of follow up singles, toured, and will be releasing a comic book depicting the first chapter of the JAELYN storyline. Most recently, Jaelyn released their second full-length album, [The Star of Freyied](https://phameless.myshopify.com/collections/jaelyn), available on CD and Vinyl from Phameless Records. This album includes the singles [Mire Mite (The Twins)](https://www.mixedaltmag.com/news-28/reviews-on-the-real%3A-jaelyn), and [Murdered by Monsters (The Pretty Ones)](https://bfan.link/murdered-by-monsters-the-pretty-ones). 
+In 2022 JAELYN released their debut EP, [We Begin](https://jaelyn.bandcamp.com/album/we-begin-2), a sci-fi concept album set in the far future, written and recorded during the pandemic. In 2024 Jaelyn released their second full-length album, [The Star of Freyied](https://phameless.myshopify.com/collections/jaelyn), available on CD and Vinyl from Phameless Records. This album includes the singles [Mire Mite (The Twins)](https://www.mixedaltmag.com/news-28/reviews-on-the-real%3A-jaelyn), and [Murdered by Monsters (The Pretty Ones)](https://bfan.link/murdered-by-monsters-the-pretty-ones). 
 
-The band is currently writing and recording a number of new singles as part of a forthcoming new EP, as they head back into the recording studio this fall of 2025.
+JAELYN has continued to record and tour as they prepare for the release of their 3rd album in Summer 2027, which will be released by [DCxPC](https://dcxpclive.com/).
 
 The lead vocalist, Jaelyn, has been writing and performing music for over 20 years. Playing in post-hardcore bands on labels like Stillborn Records such as Option, Stalemate, and Label the Traitor in the early 2000s and more recently with members of boysetsfire in the Iron Roses. This band is her first foray into a solo career, taking the reins as the primary writer and frontperson.
 
