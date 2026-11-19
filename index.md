@@ -54,7 +54,7 @@ markdown: kramdown
 
 ![](https://f4.bcbits.com/img/0031466652_10.jpg){:class="img-responsive"}
 
-
+{% include image-gallery.html folder="/uploads/album" %}
 
 ## Booking: [jaelynbooking@gmail.com](mailto:jaelynbooking@gmail.com)
 
